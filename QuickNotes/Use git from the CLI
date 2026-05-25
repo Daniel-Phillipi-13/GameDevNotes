@@ -10,3 +10,5 @@ git branch -M main // create a branch
 git remote add origin https://github.com/Daniel-Phillipi-13/GameDevNotes.git
 git push -u origin main // push from main to origin
 git pull origin main // pull from origin to main
+
+gh repo clone Daniel-Phillipi-13/GameDevNotes // clone the repo (get the name/url from GitHub)
