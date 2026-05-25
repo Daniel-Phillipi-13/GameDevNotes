@@ -1,0 +1,12 @@
+gh auth login // authenticate GitHub. You can do it via the browser from the CLI
+gh status // check status of GitHub account/authorization etc
+
+git init // Creates a repo in the current folder
+git add // prepare files to be committed
+git add . // prepare all the files that aren't ignored
+git status // check the added/modified/removed files that are ready to be committed
+git commit -m "message" // commits the prepared files with a message of your choice
+git branch -M main // create a branch
+git remote add origin https://github.com/Daniel-Phillipi-13/GameDevNotes.git
+git push -u origin main // push from main to origin
+git pull origin main // pull from origin to main
