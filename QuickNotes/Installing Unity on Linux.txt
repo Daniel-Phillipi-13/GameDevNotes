@@ -1,0 +1,10 @@
+For Ubuntu
+
+1. Git: sudo apt install git
+2. Git: lfs sudo apt install git-lfs
+    git lfs install
+3. Unity hub: https://docs.unity.com/en-us/hub/install-hub-linux
+4. Dotnet runtime: sudo snap install dotnet-sdk --classic
+5. Rider: sudo snap install rider --classic
+6. Clone project: use GUI
+    run in project menu: git lfs pull
